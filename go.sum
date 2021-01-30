@@ -1,0 +1,4 @@
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
+github.com/reujab/wallpaper v0.0.0-20201124162023-c3898ec30d2c h1:NTQfVoKIaC5s9/SBbgt5r8S7zMPpkwsBsebiCMZKGFQ=
+github.com/reujab/wallpaper v0.0.0-20201124162023-c3898ec30d2c/go.mod h1:Xb+5YBsfhPxSJOGF7b4UTZIOxRIg0Lh/FnRJQm5GPJY=
